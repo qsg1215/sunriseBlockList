@@ -1,0 +1,23 @@
+{
+  "name": "@umi-block/emptyBlock",
+  "version": "0.0.1",
+  "description": "空白占位页面",
+  "main": "src/index.js",
+  "authors": {
+    "name": "chenhuaqiao",
+    "email": "1184053575@qq.com"
+  },
+  "repository": "umijs/umi-blocks/emptyBlock",
+  "scripts": {
+    "dev": "umi dev"
+  },
+  "dependencies": {
+    "react": ">=16.0.0"
+  },
+  "devDependencies": {
+    "umi": "^2.0.0",
+    "umi-plugin-block-dev": "^2.1.12",
+    "umi-types": "^0.2.0"
+  },
+  "license": "MIT"
+}
