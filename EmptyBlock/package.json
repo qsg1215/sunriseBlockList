@@ -1,0 +1,22 @@
+{
+  "name": "@umi-block/EmptyBlcok",
+  "version": "0.0.1",
+  "description": "",
+  "main": "src/index.js",
+  "authors": {
+    "name": "陈华桥",
+    "email": "空白页面"
+  },
+  "repository": "umijs/umi-blocks/EmptyBlcok",
+  "scripts": {
+    "dev": "umi dev"
+  },
+  "dependencies": {
+    "react": ">=16.0.0"
+  },
+  "devDependencies": {
+    "umi": "^2.0.0",
+    "umi-plugin-block-dev": "^2.0.0"
+  },
+  "license": "MIT"
+}
