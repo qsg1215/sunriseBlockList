@@ -2,7 +2,7 @@
   "name": "@umi-block/tabel",
   "version": "0.0.1",
   "description": "表格页面",
-  "main": "src/index.js",
+  "main": "src/index.jsx",
   "authors": {
     "name": "chenhuaqiao",
     "email": "1184053575@qq.com"
@@ -12,6 +12,7 @@
     "dev": "umi dev"
   },
   "dependencies": {
+    "antd": "^3.19.8",
     "react": ">=16.0.0"
   },
   "devDependencies": {
