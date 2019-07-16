@@ -1,26 +1,13 @@
-#常规表格的增删改查页面
+# @umi-material/Tabel
 
-## 用法
+常用的表格
+
+## Usage
 
 ```sh
-umi block add https://github.com/qsg1215/sunriseBlockList/tree/master/TabelBlock --path=yourPath
+umi block https://github.com/umijs/umi-blocks/tree/master/Tabel
 ```
 
-将目录下面的Tabel 中的文件拷贝到pages 根目录几面即可
-注意修改模块名称和方法名称, 建议批量替换
+## LICENSE
 
-## 效果图
-
-![SNAPSHOT](./snapshot.jpg)
-
-### 新增页面
-![SNAPSHOT](./newjpg.jpg)
-
-### 编辑页面
-![SNAPSHOT](./edit.jpg)
-
-### 删除页面
-![SNAPSHOT](./del.jpg)
-
-
-
+MIT
